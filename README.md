@@ -1,4 +1,4 @@
 # Regressao-logistica
-Prevendo o risco de câncer na cervical com regressão logística em Python.
+Prevendo o risco de câncer cervical com regressão logística em Python.
 
 Machine Learning - Supervisionado - Classificação
